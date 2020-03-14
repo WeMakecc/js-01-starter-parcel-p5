@@ -5,7 +5,7 @@
   "scripts": {
     "clean": "rm -rf build .cache dist",
     "lint": "eslint src --color",
-    "start": "NODE_ENV=development parcel src/index.html",
+    "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
