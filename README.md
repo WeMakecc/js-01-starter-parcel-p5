@@ -8,7 +8,7 @@ This is a starter kit for Wemake Javascript course.
 
 Be sure to have node-js installed.
 
-Download the repository at [https://github.com/wemake/starter-parcel](https://github.com/wemake/starter-parcel), unzip and open a terminal in the project directory.
+Download the repository at [https://github.com/WeMakecc/js-01-starter-parcel-p5](https://github.com/WeMakecc/js-01-starter-parcel-p5), unzip and open a terminal in the project directory.
 
 ```
 npm install
