@@ -31,11 +31,11 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.3.1",
     "prettier": "^1.19.1"
   },
   "dependencies": {
     "p5": "^1.0.0",
-    "parcel-plugin-static-files-copy": "^2.3.1",
     "superb": "^4.0.0"
   }
 }
