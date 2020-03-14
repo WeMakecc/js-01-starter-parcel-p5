@@ -1,14 +1,14 @@
 # Javascript starter
 
-This is a javascript starter for Wemake Javascript course.
+This is a starter kit for Wemake Javascript course.
 
 ## Getting Started
 
 ### Installing
 
-```
-git clone https://github.com/wemake/starter-parcel.git
-```
+Be sure to have node-js installed.
+
+Download the repository at [https://github.com/wemake/starter-parcel](https://github.com/wemake/starter-parcel), unzip and open a terminal in the project directory.
 
 ```
 npm install
