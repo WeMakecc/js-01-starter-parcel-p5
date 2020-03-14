@@ -2,7 +2,7 @@
   "extends": ["standard", "prettier", "prettier/standard"],
   "plugins": ["import", "prettier", "standard", "promise"],
   "parserOptions": {
-    "ecmaVersion": 2017
+    "ecmaVersion": 2020
   },
   "env": {
     "es6": true,
@@ -17,6 +17,7 @@
       }
     }
   },
+  "parser": "babel-eslint",
   "rules": {
     "prettier/prettier": "warn",
     "no-extra-semi": "warn",
@@ -38,6 +39,7 @@
     "callback-return": ["error", ["callback", "cb", "next", "done"]],
     "handle-callback-err": "error",
     "prefer-const": "warn",
+    "no-var": "warn",
     "no-unused-expressions": "warn",
     "no-unused-vars": "warn",
     "no-async-promise-executor": "error",
@@ -68,7 +70,7 @@
     "no-regex-spaces": "error",
     "no-self-assign": "error",
     "no-shadow": "error",
-    "no-invalid-this": "error",
+    "no-invalid-this": "off",
     "no-shadow-restricted-names": "error",
     "no-sparse-arrays": "error",
     "no-this-before-super": "error",
