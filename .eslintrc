@@ -18,8 +18,8 @@
     }
   },
   "rules": {
-    "prettier/prettier": 2,
-    "no-extra-semi": 2,
+    "prettier/prettier": "warn",
+    "no-extra-semi": "warn",
     "space-before-function-paren": 0,
     "new-cap": "off",
     "camelcase": "error",
