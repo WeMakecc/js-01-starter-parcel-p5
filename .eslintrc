@@ -37,6 +37,7 @@
     "import/no-unresolved": "error",
     "callback-return": ["error", ["callback", "cb", "next", "done"]],
     "handle-callback-err": "error",
+    "prefer-const": "warn",
     "no-unused-expressions": "warn",
     "no-unused-vars": "warn",
     "no-async-promise-executor": "error",
